@@ -35,7 +35,7 @@
         <thrift.compiler>thrift</thrift.compiler>
         <thrift.source.dir>${basedir}/idl/</thrift.source.dir>
         <thrift.target.dir>${project.build.directory}/generated-sources/thrift/</thrift.target.dir>
-        <jetty.version>9.2.18.v20160721</jetty.version>
+        <jetty.version>10.0.10</jetty.version>
         <cherami.thrift.url>https://raw.githubusercontent.com/uber/cherami-thrift/master/idl/cherami/cherami.thrift</cherami.thrift.url>
         <checkstyle.dir>${basedir}/../checkstyle</checkstyle.dir>
     </properties>
